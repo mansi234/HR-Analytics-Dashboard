@@ -1,5 +1,7 @@
  HR-Analytics-Dashboard
  Dataset (https://github.com/mansi234/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv)
+ dashboard:(https://github.com/mansi234/HR-Analytics-Dashboard/blob/main/Dashboard.png)
+
  Highlights:
 
 1.Total Employees: 1,470 
